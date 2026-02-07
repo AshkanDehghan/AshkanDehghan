@@ -1,4 +1,4 @@
-[<h1 align="center">Hi 👋, I'm Ashkan Dehghan</h1>
+<h1 align="center">Hi 👋, I'm Ashkan Dehghan</h1>
 <h3 align="center">Full Stack Developer & Game Developer</h3>
 
 - 🔭 I’m currently working on **Unity**
